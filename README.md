@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hey, I'm ROHIT 👋  <br><br>💻 Turning caffeine into code  <br>🎓 Student exploring full-stack development  <br>🏏 Cricket lover | 🎌 Anime addict  <br><br>Currently working on:<br>- ⚡ React projects<br>- 🧠 DSA & problem solving<br>- 🔥 Real-world web apps<br><br>Goal: Build things that actually matter.<br>
+Hey, I'm ROHIT 👋  <br><br>💻 Turning caffeine into code  <br>🎓 Student exploring full-stack development  <br>🏏 Cricket lover | 🎌 Anime addict  <br><br>Currently working on:<br>- ⚡ Django projects<br>- 🧠 DSA & problem solving<br>- 🔥 Real-world web apps<br><br>Goal: Build things that actually matter.<br>
 
 
 ## 🌐 Socials:
